@@ -1,0 +1,20 @@
+.centerActivity{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spaced-items{
+    margin-right: 10px;
+}
+
+.spaced-items-below{
+    margin-bottom: 15px;
+}
+
+.generate-activity-button{
+    padding:5px;
+    background-color:#4f9f4e;
+    color:white;
+}
+
